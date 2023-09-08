@@ -46,7 +46,7 @@ img{
     width: 100%;
     height: 100vh;
     position: relative;
-    background: url('C:\\Users\\HP\\OneDrive\\Desktop\\web development\\netflix\\1.jpg');
+    background: url('1.jpg');
 }
 
 .showcase::after{
